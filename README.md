@@ -9,7 +9,7 @@ the growing challenge of financial fraud.
 ## Notable Features
 
 - The model achieved an AUPRC score of **95.63%**  
-- Handled imbalanced data with optimized metrics like AUPRC   
+- Handled imbalanced data with optimized metric (AUPRC) 
 - Easily extendable and adaptable for new datasets and fraud types
 
 
