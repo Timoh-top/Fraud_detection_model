@@ -15,7 +15,7 @@ the growing challenge of financial fraud.
 
 You can explore the full workflow in google collab:
 
-https://colab.research.google.com/drive/1KRlHWSBQ-a0RYfmcKxx2HCvQ5ukHztiZ#scrollTo=-GX5NIywdg3j
+(https://colab.research.google.com/drive/1KRlHWSBQ-a0RYfmcKxx2HCvQ5ukHztiZ?usp=sharing)
 
 ## Contact
 
